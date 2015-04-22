@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a536c7c-6ecb-4186-b496-6a97100e3ce8" name="Default" comment="cypher version 1.0">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="7a536c7c-6ecb-4186-b496-6a97100e3ce8" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" />
@@ -605,7 +604,7 @@
       <option name="number" value="Default" />
       <updated>1418379430859</updated>
       <workItem from="1429267377843" duration="2207000" />
-      <workItem from="1429689285008" duration="3691000" />
+      <workItem from="1429689285008" duration="3723000" />
     </task>
     <task id="LOCAL-00001" summary="cypher version 1.0">
       <created>1418393118642</created>
@@ -613,11 +612,17 @@
       <option name="project" value="LOCAL" />
       <updated>1418393118642</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="cypher version 1.0">
+      <created>1429699714249</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1429699714249</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5898000" />
+    <option name="totallyTimeSpent" value="5930000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="81" y="30" width="1839" height="1050" extended-state="6" />
